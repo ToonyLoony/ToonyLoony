@@ -3,7 +3,7 @@
   
 - 🌱 I’m currently learning everything 🤣
   
-- 🥅 2022 Goals: Learn as much as i can thats CyberSecurity related and reach the rank of pro hacker on HTB 🤞
+- 🥅 2022 Goals: Obtain the EJPT certification, whilst also reaching the rank of pro hacker on HTB 🤞
   
 - ⚡ Fun fact: I love to play football 
   
