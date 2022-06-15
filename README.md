@@ -1,4 +1,4 @@
-<h1>Hi, I'm Toony! <br/>
+<h1>Hi, I'm Ty! <br/>
 <h3>I am a passionate CyberSecurity enthusiast from London</h3>
   
 - 🌱 I’m currently learning everything 🤣
