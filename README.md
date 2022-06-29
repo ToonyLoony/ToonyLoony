@@ -10,7 +10,7 @@
 <h2>👨‍💻 My CyberSecurity Projects:</h2>
 
 - <b>Vulnerability Management Using Nessus</b>
-  - [Conducting a vulnerability assessments with Nessus; Remidiating Vulnerabilities](https://github.com/ToonyLoony/Nessus_Project)
+  - [Conducting a vulnerability assessment with Nessus; Remidiating Vulnerabilities](https://github.com/ToonyLoony/Nessus_Project)
   
 - <b>Using Azure Sentinel (SIEM) & observing live global attacks (RDP Brute Force) Using Powershell scripts to plot attackers Geolocation</b>
   - [The Azure Sentinel HoneyPot](https://medium.com)
