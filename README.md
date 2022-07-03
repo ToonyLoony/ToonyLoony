@@ -9,15 +9,15 @@
   
 <h2>👨‍💻 My CyberSecurity Projects:</h2>
 
-- <b>Vulnerability Management Using Nessus</b>
-  - [Conducting a vulnerability assessment with Nessus; Remidiating Vulnerabilities](https://github.com/ToonyLoony/Nessus_Project)
-  
 - <b>Using Azure Sentinel (SIEM) & observing live global attacks (RDP Brute Force) Using Powershell scripts to plot attackers Geolocation</b>
   - [The Azure Sentinel HoneyPot](https://github.com/ToonyLoony/SIEM_Azure_Project)
   
-- <b>Vulnerabilitiy Assessments with OpenVAS</b>
-  - [Performing vulnerability assessments with OpenVAS](https://github.com/ToonyLoony/SIEM_Azure_Project)
+- <b>Performing an OpenVAS Vulnerability Assessment; Exploiting Vulnerabilities Found</b>
+  - [Performing vulnerability assessments with OpenVAS](https://github.com/ToonyLoony/OpenVAS_Project)
 
+- <b>Vulnerability Management Using Nessus</b>
+  - [Conducting a vulnerability assessment with Nessus; Remidiating Vulnerabilities](https://github.com/ToonyLoony/Nessus_Project)
+  
 <h2 align="left"> 🤳 Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/Toonyloony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toonyloony" height="30" width="40" /></a>
