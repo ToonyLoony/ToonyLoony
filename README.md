@@ -13,7 +13,10 @@
   - [Conducting a vulnerability assessment with Nessus; Remidiating Vulnerabilities](https://github.com/ToonyLoony/Nessus_Project)
   
 - <b>Using Azure Sentinel (SIEM) & observing live global attacks (RDP Brute Force) Using Powershell scripts to plot attackers Geolocation</b>
-  - [The Azure Sentinel HoneyPot](https://medium.com)
+  - [The Azure Sentinel HoneyPot](https://github.com/ToonyLoony/SIEM_Azure_Project)
+  
+- <b>Vulnerabilitiy Assessments with OpenVAS</b>
+  - [Performing vulnerability assessments with OpenVAS](https://github.com/ToonyLoony/SIEM_Azure_Project)
 
 <h2 align="left"> 🤳 Connect with me:</h2>
 <p align="left">
