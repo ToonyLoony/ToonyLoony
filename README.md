@@ -13,7 +13,7 @@
   - [The Azure Sentinel HoneyPot](https://github.com/ToonyLoony/SIEM_Azure_Project)
   
 - <b>Performing an OpenVAS Vulnerability Assessment; Exploiting Vulnerabilities Found</b>
-  - [Performing Vulnerability Assessments With OpenVAS](https://github.com/ToonyLoony/OpenVAS_Project)
+  - [Exploiting Vulnerabilities Identified By OpenVAS Vulnerability Assessment Scanner](https://github.com/ToonyLoony/OpenVAS_Project)
 
 - <b>Vulnerability Management Using Nessus</b>
   - [Conducting a Vulnerability Assessment With Nessus; Remidiating Vulnerabilities](https://github.com/ToonyLoony/Nessus_Project)
